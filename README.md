@@ -1,1 +1,1 @@
-# Saint-James-Rota-Generator
+# SJ-Rota-Generator
